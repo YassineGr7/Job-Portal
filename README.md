@@ -126,17 +126,16 @@ php artisan serve
 You can add your future screenshots here:
 
 ```
-/public/screenshots/img1.png
-/public/screenshots/img2.png
-/public/screenshots/img3.png
-/public/screenshots/img4.png
-/public/screenshots/img5.png
-/public/screenshots/img6.png
-/public/screenshots/img7.png
-/public/screenshots/img8.png
-/public/screenshots/img9.png
-/public/screenshots/img10.png
-
+public/screenshots/img1.png
+public/screenshots/img2.png
+public/screenshots/img3.png
+public/screenshots/img4.png
+public/screenshots/img5.png
+public/screenshots/img6.png
+public/screenshots/img7.png
+public/screenshots/img8.png
+public/screenshots/img9.png
+public/screenshots/img10.png
 
 ```
 
